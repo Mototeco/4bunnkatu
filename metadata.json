@@ -1,0 +1,5 @@
+{
+  "name": "スプリットマスター (SplitMaster)",
+  "description": "画像をドラッグ＆ドロップで簡単に4分割。分割位置を自由に調整し、個別にダウンロードできる便利なツールです。",
+  "requestFramePermissions": []
+}
